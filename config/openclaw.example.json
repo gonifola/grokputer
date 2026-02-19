@@ -1,0 +1,19 @@
+{
+  "agent": {
+    "model": "xai/grok-2-latest"
+  },
+  "channels": {
+    "whatsapp": {
+      "enabled": false
+    },
+    "telegram": {
+      "enabled": false
+    },
+    "discord": {
+      "enabled": false
+    }
+  },
+  "browser": {
+    "enabled": true
+  }
+}
